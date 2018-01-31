@@ -1,0 +1,10 @@
+com:
+  itheima:
+    name: itheima
+#com.itheima.name=itheima
+
+#加载其他配置文件
+#spring.profiles.active=a,b
+spring:
+  profiles:
+    active: a,b
